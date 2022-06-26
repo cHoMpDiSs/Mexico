@@ -1,2 +1,3 @@
 # Mexico
 Mexico Dice Game
+I wanted to create a dice game that I hade not seen yet in python. Im sure it exists, however I wanted to try to build the entire game from the ground up myself. I am really happy with the outcome and intend on making additions in the future. I hope you enjoy.....
